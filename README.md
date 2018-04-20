@@ -1,0 +1,2 @@
+# Mazingira-Project
+The current waste management system does not adapt the modern information technology systems hence creating a huge communication and interaction gap between the residents and parties offering solid waste management services. With the growing connectivity in terms of the internet and smart Web platforms, organizations should ensure that they adapt with modern times for efficiency
